@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello there 👋 I,m Damián Cancela
 
-<!--
-**DamCod/DamCod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with **JavaScript**
+- 🌱 I’m currently learning: **ReactJS**, **NodeJS**, **SQL and NoSQL databases**, **ThreeJS**
+- 🤔 I’m looking for a job
+- 💬 Ask me about **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **ReactJS**
+- 📫 How to reach me: [damiancancela32@gmail.com](https://mail.google.com/mail/?view=cm&source=mailto&to=damiancancela32@gmail.com)
+- ⚡ Fun fact: I love music and play several instruments, like guitar and drums.
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DamCod&theme=tokyonight)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![DamCod's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamCod&count_private=true&show_icons=true&theme=tokyonight&hide=prs,issues,)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
