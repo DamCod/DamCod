@@ -5,7 +5,7 @@
 - 🤔 I’m looking for a job
 - 💬 Ask me about **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **ReactJS**
 - 📫 How to reach me: [damiancancela32@gmail.com](https://mail.google.com/mail/?view=cm&source=mailto&to=damiancancela32@gmail.com)
-- ⚡ Fun fact: I love music and play several instruments, like guitar and drums.
+- ⚡ Fun fact: I love :musical_note: and play several instruments, like :guitar: and :musical_keyboard:.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DamCod&theme=tokyonight)](https://git.io/streak-stats)
 
