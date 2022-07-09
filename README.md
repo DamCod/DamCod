@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with **JavaScript**
 - 🌱 I’m currently learning: **ReactJS**, **NodeJS**, **SQL and NoSQL databases**, **ThreeJS**
-- 🤔 I’m looking for a job
+- 🤔 I’m looking for oportunities to keep **learning** and growing as a **developer**
 - 💬 Ask me about **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **ReactJS**
 - 📫 How to reach me: [damiancancela32@gmail.com](https://mail.google.com/mail/?view=cm&source=mailto&to=damiancancela32@gmail.com)
 - ⚡ Fun fact: I love :musical_note: and play several instruments, like :guitar: and :musical_keyboard:.
