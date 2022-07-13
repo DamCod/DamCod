@@ -12,3 +12,5 @@
 [![DamCod's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamCod&count_private=true&show_icons=true&theme=tokyonight&hide=prs,issues,)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![DamCod's CodeWars stats](https://github-readme-codewars-stats.herokuapp.com/api/?username=DamCod&card&colormode=dark_mode)]
