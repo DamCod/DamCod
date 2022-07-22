@@ -1,7 +1,7 @@
 
 <img align="right" height="250" width="250" src="https://thumbs.gfycat.com/UntidyUnlinedKudu.webp">
 
-### Hi, I’m iDamián Cancela
+### Hi, I’m Damián Cancela
 
 - 🔭 I’m currently working with **JavaScript**
 - 🌱 I’m currently learning: **ReactJS**, **NodeJS**, **SQL and NoSQL databases**, **ThreeJS**
