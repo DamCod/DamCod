@@ -16,9 +16,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![DamCod's CodeWars stats](https://github-readme-codewars-stats.herokuapp.com/api/?username=DamCod&card&colormode=dark_mode)
-
 <img align="right" height="90" width="90" src="https://c.tenor.com/NrdO5No6MXAAAAAd/dance-infinite-loop.gif">
 
 
