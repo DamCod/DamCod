@@ -1,6 +1,6 @@
 ### Hi, I’m Damián Cancela
 
-- 🔭 I’m currently working with **JavaScript**
+- 🔭 I’m currently working with **TypeScript**
 - 🌱 I’m currently learning: **NextJS**, **NestJS**, **SQL and NoSQL databases**, **ThreeJS**
 - 🤔 I’m always looking for oportunities to keep **learning** and applying  my skills in **fun and interesting** projects
 - 💬 Ask me about **HTML**, **CSS**, **NextJs**, **TypeScript**, **ReactJS**, **UX/UI**
