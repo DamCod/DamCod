@@ -5,7 +5,7 @@
 - 🤔 I’m always looking for oportunities to keep **learning** and applying  my skills in **fun and interesting** projects
 - 💬 Ask me about **HTML**, **CSS**, **NextJs**, **TypeScript**, **ReactJS**, **UX/UI**
 - 📫 How to reach me: [damiancancela32@gmail.com](https://mail.google.com/mail/?view=cm&source=mailto&to=damiancancela32@gmail.com)
-- ⚡ Fun fact: I love music:musical_note: and play several instruments, like :drum: and :guitar:. My hobbie is creating music with friends.
+- ⚡ Fun fact: I love music :musical_note: and play several instruments, like :drum: and :guitar:. My hobbie is creating music with friends.
 
 <br clear="right"/>
 
