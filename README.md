@@ -1,11 +1,11 @@
 ### Hi, I’m Damián Cancela
 
 - 🔭 I’m currently working with **JavaScript**
-- 🌱 I’m currently learning: **ReactJS**, **NodeJS**, **SQL and NoSQL databases**, **ThreeJS**
-- 🤔 I’m looking for oportunities to keep **learning** and growing as a **developer**
-- 💬 Ask me about **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **ReactJS**
+- 🌱 I’m currently learning: **NextJS**, **NestJS**, **SQL and NoSQL databases**, **ThreeJS**
+- 🤔 I’m always looking for oportunities to keep **learning** and applying  my skills in **fun and interesting** projects
+- 💬 Ask me about **HTML**, **CSS**, **NextJs**, **TypeScript**, **ReactJS**, **UX/UI**
 - 📫 How to reach me: [damiancancela32@gmail.com](https://mail.google.com/mail/?view=cm&source=mailto&to=damiancancela32@gmail.com)
-- ⚡ Fun fact: I love :musical_note: and play several instruments, like :guitar: and :musical_keyboard:.
+- ⚡ Fun fact: I love music:musical_note: and play several instruments, like :drum: and :guitar:. My hobbie is creating music with friends.
 
 <br clear="right"/>
 
